@@ -94,25 +94,14 @@ body{
     align-items: center;
     gap: 10px;
     justify-content: space-between;
-    padding: 0 15px;
+    padding: 0 ;
     flex-grow: 1;
   }
   
   .info-item {
     text-align: center;
   }
-  
-//   .count {
-//     display: block;
-//   }
-  
-//   .image-link {
-//     display: block;
-//     max-width: 400px;
-//     height: 260px;
-//     overflow: hidden;
-//     flex-grow: 1;
-//   }
+
   
   .photo-card {
     width: 400px;
@@ -125,7 +114,7 @@ body{
     align-items: center;
     margin: 30px auto;
     padding: 15px 35px;
-    background-color: #ffd4a9;
+    background-color: rgb(48, 39, 214);;
     border: none;
     border-radius: 7px;
     font-size: 22px;
